@@ -1,0 +1,52 @@
+.contact-buttons {
+    text-align: left;
+    margin-top: 20px;
+}
+
+.contact-buttons a.btn {
+    font-size: 18px;
+    padding: 8px 20px;
+    margin: 8px;
+    border-radius: 5px;
+    text-decoration:none;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: #fff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+    color: #fff;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+    color: #fff;
+}
+
+.btn-secondary:hover {
+    background-color: #5a6268;
+    border-color: #5a6268;
+    color: #fff;
+}
+.vibrant-text {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+    text-align: justify;
+}
+
+.vibrant-text em {
+    font-style: italic;
+    color: #ff5e5e; 
+}
+.social-links a {
+    margin-right: 10px;
+    display: inline-block;
+    font-size: 24px; 
+}
